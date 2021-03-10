@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(255, 38, 0);
+}
+.botao {
+  background-color: brown;
+  color: #FFF;
+  border: 0px;
+  padding: 20px;
+}
+.galeria, .flip, .flash {
+  width: 100px;
+  height: 100px;
+  background-color: #FFF;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.galeria {
+  background-image:url('../images/camera-gallery.png');
+}
+.flip {
+  background-image:url('../images/camera-flip.png');
+}
+.flash {
+  background-image:url('../images/camera-flash.jpg');
+}
