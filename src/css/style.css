@@ -10,7 +10,7 @@ body {
 .galeria, .flip, .flash {
   width: 100px;
   height: 100px;
-  background-color: #FFF;
+  background-color: rgb(236, 98, 167);
   background-repeat: no-repeat;
   background-position: center;
 }
